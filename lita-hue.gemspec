@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-hue"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.0.pre"
   spec.authors       = ["Donald Guy"]
   spec.email         = ["donald.b.guy@gmail.com"]
   spec.description   = "Lita Plugin to control Phillips Hue Lights"
